@@ -2,7 +2,7 @@
   "name": "Calculadora de Salário de Professor",
   "short_name": "Calc Professor",
   "description": "Calculadora para calcular o salário de professores com descontos de INSS e IRRF",
-  "start_url": "/",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#F5F5F5",
   "theme_color": "#F5BC65",
